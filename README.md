@@ -42,11 +42,11 @@ Os fios azuis representam as conexões do lado de cima da placa e o fios vermelh
 
 Caso haja o interesse na producão dessa placa do jeito como foi projetada os templates estão abaixo:
  
-- [Parte de cima "Fios Azuis"]('/PCB/Schematics Sebix top.pdf')
-- [Parte de baixo "Fios Vermelhos"]('/PCB/Schematics Sebix bottom.pdf')
+- [Parte de cima "Fios Azuis"](/PCB/Schematics_Sebix_top.pdf)
+- [Parte de baixo "Fios Vermelhos"](/PCB/Schematics_Sebix_bottom.pdf)
 
 Caso haja o interesse na modificação dessa placa: 
 
-- [Esquema]('/PCB/Schematics Sebix.sch')
-- [Placa]('/PCB/Schematics Sebix.brd')
+- [Esquema](/PCB/Schematics_Sebix.sch)
+- [Placa](/PCB/Schematics_Sebix.brd)
 
