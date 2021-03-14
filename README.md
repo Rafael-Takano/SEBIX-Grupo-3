@@ -17,7 +17,9 @@ E foi montado assim como na imagem abaixo.
 ## Código
 - #### Breve descrição do funcionamento do jogo
 Inicialmente ao ligar o Arduino à uma fonte de energia o jogo fica numa tela inicial esperando o input do jogador para começar:
+
 ![Tela inicial do jogo](/Imagens/tela-start.png)
+
 Em seguida, com o clique do jogador, começa o jogo e toca a melodia de inicio de game. 
 
 O objetivo do jogador é evitar os cactos que vem em sua direção, a pontuação disposta no canto superior direito é contado com base no tempo de jogo, ao clicar no botão o dinossauro pula e o buzzer emite o som de pulo.
@@ -40,11 +42,11 @@ Os fios azuis representam as conexões do lado de cima da placa e o fios vermelh
 
 Caso haja o interesse na producão dessa placa do jeito como foi projetada os templates estão abaixo:
  
-- [Parte de cima "Fios Azuis"](/PCB/Schematics\ Sebix\ top.pdf)
-- [Parte de baixo "Fios Vermelhos"](/PCB/Schematics\ Sebix\ bottom.pdf)
+- [Parte de cima "Fios Azuis"]('/PCB/Schematics Sebix top.pdf')
+- [Parte de baixo "Fios Vermelhos"]('/PCB/Schematics Sebix bottom.pdf')
 
 Caso haja o interesse na modificação dessa placa: 
 
-- [Esquema](/PCB/Schematics\ Sebix.sch)
-- [Placa](/PCB/Schematics\ Sebix.brd)
+- [Esquema]('/PCB/Schematics Sebix.sch')
+- [Placa]('/PCB/Schematics Sebix.brd')
 
