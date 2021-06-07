@@ -50,3 +50,15 @@ Caso haja o interesse na modificação dessa placa:
 - [Esquema](https://github.com/Rafael-Takano/SEBIX-Grupo-3/blob/main/PCB_Files/Schematic_Sebix.sch)
 - [Placa](https://github.com/Rafael-Takano/SEBIX-Grupo-3/blob/main/PCB_Files/Schematic_Sebix.brd)
 
+## Modelagem 3D
+Prototipo para acoplamento da PCB, ilustrado em diferentes vistas. 
+
+Foram adicionados componentes para ilustrar o resultado final do projeto, suas dimensões estão de acordo com os selecionados para uso. São eles:
+- Display de Cristal líquido (LCD)
+- Arduino nano
+- Push Button
+- Buzzer 5V
+
+![Prototipo para acoplamento](https://github.com/G110-ctrl/SEBIX-Grupo-3/blob/main/Imagens/modelo3d.png)
+
+Produzido no Software Fusion 360 Autodesk, e os componentes citados disponíveis em https://gallery.autodesk.com/projects/all
